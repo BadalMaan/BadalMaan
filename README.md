@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @BadalMaan
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning dsa
-- 💞️ I’m looking to collaborate in my projects
 - 📫 How to reach me drop a message 
-- 😄 Pronouns: badal
 - ⚡ Fun fact: i'll tell if any
 
 <!---
