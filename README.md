@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BadalMaan
 - 📫 How to reach me drop a message 
-- ⚡ Fun fact: i'll tell if any
+- ⚡ Fun fact: i'll tell if any comes up
 
 <!---
 BadalMaan/BadalMaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
