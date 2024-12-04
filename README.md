@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @BadalMaan
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning dsa
 - 📫 How to reach me drop a message 
 - ⚡ Fun fact: i'll tell if any
 
